@@ -1,16 +1,58 @@
-# React + Vite
+# 📈 Real-Time Crypto Analytics
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance financial dashboard that tracks live cryptocurrency prices and market trends. It fetches real-time data from the CoinGecko API and visualizes 7-day price performance using interactive charts.
 
-Currently, two official plugins are available:
+**[View Live Demo](https://crypto-tracker-a627.onrender.com)** *(Replace with your actual Render link)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Live Market Data:** Fetches real-time prices, symbols, and icons for top cryptocurrencies via **Axios**.
+* **Trend Visualization:** Integrated **Chart.js** to render dynamic 7-day sparkline charts for each asset.
+* **Performance Indicators:** Visual color-coding (Green/Red) to instantly indicate 24h positive or negative change.
+* **Optimized Rendering:** Uses React Hooks (`useEffect`, `useState`) to manage API states and loading skeletons efficiently.
+* **Modern UI:** Fully responsive Dark Mode interface built with **Tailwind CSS**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js, Vite
+* **Styling:** Tailwind CSS
+* **Data Fetching:** Axios (REST API)
+* **Visualization:** Chart.js, React-Chartjs-2
+* **API:** CoinGecko Public API
+
+---
+
+## 📸 Screenshots
+
+*(Drag and drop your screenshot of the dashboard with the green/red lines here)*
+
+---
+
+## 🔧 How to Run Locally
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/TechMasterDepar69/crypto-tracker.git](https://github.com/TechMasterDepar69/crypto-tracker.git)
+    cd crypto-tracker
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the Server**
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## 👨‍💻 Author
+
+**Depar [Your Last Name]**
+* **GitHub:** [TechMasterDepar69](https://github.com/TechMasterDepar69)
