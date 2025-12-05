@@ -2,8 +2,9 @@
 
 A high-performance financial dashboard that tracks live cryptocurrency prices and market trends. It fetches real-time data from the CoinGecko API and visualizes 7-day price performance using interactive charts.
 
-**[View Live Demo](https://crypto-tracker-a627.onrender.com)** *(Replace with your actual Render link)*
+**[View Live Demo](https://crypto-tracker-a627.onrender.com)** 
 
+Please refresh every 10 seconds to see the result on real-time.
 ---
 
 ## 🚀 Key Features
@@ -28,7 +29,7 @@ A high-performance financial dashboard that tracks live cryptocurrency prices an
 
 ## 📸 Screenshots
 
-*(Drag and drop your screenshot of the dashboard with the green/red lines here)*
+![Screenshot_5-12-2025_193015_crypto-tracker-a627 onrender com](https://github.com/user-attachments/assets/0ce33a43-6bff-4aa3-af3b-7315afdf9612)
 
 ---
 
@@ -54,5 +55,10 @@ A high-performance financial dashboard that tracks live cryptocurrency prices an
 
 ## 👨‍💻 Author
 
-**Depar [Your Last Name]**
+**Depar Min Htet**
 * **GitHub:** [TechMasterDepar69](https://github.com/TechMasterDepar69)
+* **Email:** techmasterdepar69@gmail.com
+
+---
+
+*This project was built as part of a Full Stack Data Analysis portfolio.*
